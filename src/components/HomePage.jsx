@@ -37,7 +37,7 @@ function HomePage() {
         <main className="mt-36 text-center">
           <section className="w-96 mb-9 mx-auto">
             <img
-              src="/src/assets/Chainsaw_Man_Alt_English_Logo.webp"
+              src="/src/assets/Chainsaw_Man_Alt_English_Logo.png"
               alt=""
             ></img>
           </section>
